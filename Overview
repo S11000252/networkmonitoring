@@ -1,2 +1,24 @@
 Network Automation
 Network monitoring and auto incident MONITORING tool
+Network Monitoring  Automation Tool that Monitor Node’s IP and Generate Incident in with date time.
+Network Monitoring Module check IP Address reachability
+AND IF devices will Un-reachable application will generate
+Auto-Incident in Application Page
+Application will track Incident Information in this page and provide console to user to close the Incident Number after once Node IP Address Reachable.
+
+Application Stop Close Process of unreachable devices.
+
+IF 
+
+Device Unreachable.
+
+AND
+
+Provide OUTPUT 
+
+“DEVICE NOT REACHABLE”
+
+Application Provide Console to Addition Node IP Address in Application with Device Criticality and Device Group.
+
+AND Result Provide as CRITICALITY AND GROUPS.
+
